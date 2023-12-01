@@ -1,0 +1,4 @@
+﻿  Store.cpp
+C:\Users\Luis\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab5\Lab_5\DynamicMemoryLab\Store.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luis\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab5\Lab_5\DynamicMemoryLab\Store.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+  DynamicMemoryLab.vcxproj -> C:\Users\Luis\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab5\Lab_5\Debug\DynamicMemoryLab.exe

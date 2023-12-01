@@ -1,0 +1,4 @@
+﻿  Lab 1.cpp
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab1\Lab 1\Lab 1\Lab 1.cpp(64,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab1\Lab 1\Lab 1\Lab 1.cpp(265,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab 1.vcxproj -> C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab1\Lab 1\Debug\Lab 1.exe

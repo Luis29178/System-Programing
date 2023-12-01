@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Lab_6\Helper.h(42,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Lab_6\Helper.h(42,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Lab_6\Main.cpp(50,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Lab_6\Main.cpp(56,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Lab_6\Main.cpp(85,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Lab_6\Main.cpp(91,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Lab_6\Main.cpp(119,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Lab_6\Main.cpp(125,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab_6.vcxproj -> D:\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab6\Lab_6\Debug\Lab_6.exe

@@ -1,0 +1,4 @@
+﻿  Lab_2.cpp
+C:\Users\Luis\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab2\Lab_2\Lab_2\Lab_2.cpp(160,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Luis\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab2\Lab_2\Lab_2\Lab_2.cpp(160,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Lab_2.vcxproj -> C:\Users\Luis\OneDrive - Full Sail University\Visual Studios\SystemPrograming\Lab2\Lab_2\Debug\Lab_2.exe

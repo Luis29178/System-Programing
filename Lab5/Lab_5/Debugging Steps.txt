@@ -1,0 +1,70 @@
+	
+
+
+step #	  Action taken		after//--> Notes/selftips 
+↓		↓				↓
+
+
+
+	Began @ corprate.h with video
+	{
+
+ 1)	folowed tutorial	//deleted all regions, fixed dynamic long long
+
+	}
+
+
+
+ 2) 	Moved to region.h
+	{
+
+ 3) 	create ~Region	//deletes all stores
+
+ 4) 	GetReceips made none-dynamic
+
+	}
+
+
+
+5)	Moved to store.h
+	{
+
+6)	(right clik Store(); / go to def. == Store.cpp)//takes to function
+
+7)	create Store::~Store	// deletes all registers
+
+8)	(return to Store.cpp and added ~Store() refrence)// same ase region and corp but backwords since sorce code is in .ccp instead of .h(Store.h<--interface::Store.ccp<-- sorce code)
+
+9)	Store::GetRecips() made non-dynamic // Register Total i assum cannot be deleted scince its used??<--- chech on later if leaks still present
+
+15)	memory leak from dynamic regtotal --> delete
+
+16)	that fixed everyting  im scared // com back and check agin another day
+
+17)	still good as far as i know
+
+
+	}
+
+
+10)	 Moved to Register.h
+	{
+
+11)	(right clik Register(); / go to def. == Register.cpp)//takes to function
+
+
+12)	created Register::~Register()  // deletes all _cashRecieps && deletes all _creditRecieps
+
+
+
+	}
+
+
+
+13) run Program // check for leakes
+
+14) Final dump leak from 154 -> 8983	// serch 8983 leak with CrstSetBreakAlloc(); \\ good 
+
+
+
+
